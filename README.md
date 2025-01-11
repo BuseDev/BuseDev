@@ -14,10 +14,10 @@
 <a href="https://dribbble.com/busedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/busedev" height="30" width="40" /></a>
 </p>
 
-<img align="top" alt="fire" width="300" src="https://y.yarn.co/11ad3363-91d7-4b3e-a354-0256069cb8b8_text.gif">
+<!--<img align="top" alt="fire" width="300" src="https://y.yarn.co/11ad3363-91d7-4b3e-a354-0256069cb8b8_text.gif">-->
 <!--<img align="right" alt="codergirl" width="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">-->
 
-<!--<img align="right" alt="mutiny" width="300" src="https://i0.wp.com/revistapaco.com/wp-content/uploads/2015/12/hcf_portada2.jpg?resize=910%2C681&ssl=1">-->
+<img align="top" alt="mutiny" width="300" src="https://tvobsessive.com/wp-content/uploads/2020/05/halt-and-catch-fire-season-2-key-art-1200-758x364.jpg">
 
 
 
