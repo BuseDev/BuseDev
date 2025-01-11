@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Buse Boylan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<img align="right" alt="codergirl" width="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<!--<img align="right" alt="codergirl" width="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">-->
 <img align="right" alt="girl" width="300" src="https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif">
 
 - 🌱 I’m currently learning **Node.js, React**
