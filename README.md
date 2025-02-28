@@ -27,6 +27,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BuseDev&show_icons=true&theme=dark" width="55%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuseDev&layout=compact&theme=dark" width="41%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuseDev&layout=compact&theme=dark" width="42%">
 </div>
 
