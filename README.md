@@ -3,6 +3,8 @@
 
 <img align="right" alt="girl" width="300" src="https://camo.githubusercontent.com/28e80ff1d148492dc2b7f0437a8eb4e9079b7b8b3f9842108e0823fcda1d434a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36382f61652f62662f36386165626634633731626431643630393066383732333732373262303165352e676966">
 
+![Buse's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuseDev&show_icons=true&theme=dark)
+
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **buseboylan@outlook.com**
