@@ -17,7 +17,7 @@
 <!--<img align="top" alt="fire" width="300" src="https://y.yarn.co/11ad3363-91d7-4b3e-a354-0256069cb8b8_text.gif">-->
 <!--<img align="right" alt="codergirl" width="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">-->
 
-<img align="top" alt="mutiny" width="300" src="https://tvobsessive.com/wp-content/uploads/2020/05/halt-and-catch-fire-season-2-key-art-1200-758x364.jpg">
+<!--<img align="top" alt="mutiny" width="300" src="https://tvobsessive.com/wp-content/uploads/2020/05/halt-and-catch-fire-season-2-key-art-1200-758x364.jpg">-->
 
 
 
